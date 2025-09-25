@@ -29,9 +29,9 @@ In this task, I:
 ## Class Structure
 com.elevatelabs.tasks.task3
 ```
--Book.java      # Represents a book class (id, title, author, issued status)
--User.java  # Represents a user class (id, name)
--Library.java  # Main class with menu and library operations.
+Book.java      # Represents a book class (id, title, author, issued status)
+User.java  # Represents a user class (id, name)
+Library.java  # Main class with menu and library operations.
 ```
 
 ## Sample Output
