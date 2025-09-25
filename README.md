@@ -28,12 +28,13 @@ In this task, I:
 
 ## Class Structure
 com.elevatelabs.tasks.task3
-```
+
 ├── Book.java      # Represents a book class (id, title, author, issued status)
 ├── User.java # Represents a user class (id, name)
 └── Library.java # Main class with menu and library operations.
-```
+
 ## Sample Output
+```
 Library Management System
 1. Add Book
 2. View Books
@@ -41,8 +42,12 @@ Library Management System
 4. Issue Book
 5. Return Book
 6. Exit
-Enter your choice: 1
-Enter Book ID: 2001
-Enter Book Title: Java Programming
-Enter Book Author: Dennis Charlie 
-✅ Book added successfully
+
+-Enter your choice: 1
+-Enter Book ID: 2001
+-Enter Book Title: Java Programming
+-Enter Book Author: Dennis Charlie 
+ ✅ Book added successfully
+```
+
+
