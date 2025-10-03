@@ -51,6 +51,6 @@ Library Management System
  ✅ Book added successfully
 ```
 - Name: Saleha Firdous Syed Qamar
-- Java Full Stack Developer Intern
+- Java Developer Intern
 - Date: 25-09-2025
 
